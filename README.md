@@ -17,13 +17,11 @@ Whether you're a casual investor or an experienced trader, The BigBull Stock Pre
 
 ![Screenshot 2025-03-26 095859](https://github.com/user-attachments/assets/ff967b5a-8640-4106-ba75-2f8066d54201)
 
-![Screenshot 2025-03-19 221421](https://github.com/user-attachments/assets/5b36afcb-b3ad-4c59-af39-fb52273ef0b3)
+![Screenshot 2025-03-26 095930](https://github.com/user-attachments/assets/63a5ce46-4331-4376-a142-ae91f85fcb84)
 
 ![Screenshot 2025-03-26 095955](https://github.com/user-attachments/assets/a15fc7c4-62b6-4b14-bd5d-06f7b5642e6d)
 
 ![Screenshot 2025-03-26 100000](https://github.com/user-attachments/assets/b6fa7e14-b9b2-483b-a22b-d6da76b9d35c)
-
-![Screenshot 2025-03-26 095930](https://github.com/user-attachments/assets/63a5ce46-4331-4376-a142-ae91f85fcb84)
 
 ![Screenshot 2025-03-26 100009](https://github.com/user-attachments/assets/ba88d129-5a8f-4078-8539-3ae045b00603)
 
