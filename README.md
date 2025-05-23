@@ -15,6 +15,16 @@ With a user-friendly interface built on Streamlit, BigBull offers features such 
 
 Whether you're a casual investor or an experienced trader, The BigBull Stock Prediction Model provides valuable insights to help you stay ahead in the market.
 
+✅ Requirements
+Python 3.9+
+Streamlit
+pandas
+numpy
+scikit-learn
+yfinance
+plotly
+(or any other libraries listed in requirements.txt)
+
 ![Screenshot 2025-03-26 095859](https://github.com/user-attachments/assets/ff967b5a-8640-4106-ba75-2f8066d54201)
 
 ![Screenshot 2025-03-26 095930](https://github.com/user-attachments/assets/63a5ce46-4331-4376-a142-ae91f85fcb84)
@@ -34,8 +44,33 @@ Whether you're a casual investor or an experienced trader, The BigBull Stock Pre
 ![Screenshot 2025-03-26 100019](https://github.com/user-attachments/assets/d6c96d9d-8395-4902-8e84-fad5b3d4e3a9)
 b85355)
 
-
 ![Screenshot 2025-03-26 100025](https://github.com/user-attachments/assets/579f1002-4f1a-4d51-964c-dc71af20d0c2)
+
+📥 Installation Steps for The BigBull Stock Prediction Model
+Follow these steps to set up and run The BigBull Stock Prediction Model on your local machine:
+
+1️⃣ Clone the Repository
+bash
+git clone https://github.com/yourusername/TheBigBull.git
+cd TheBigBull
+
+2️⃣ Set Up a Virtual Environment (Recommended)
+bash
+python -m venv venv
+source venv/bin/activate  # For macOS/Linux
+venv\Scripts\activate     # For Windows
+
+3️⃣ Install Dependencies
+bash
+pip install -r requirements.txt
+
+4️⃣ Run the Application
+bash
+streamlit run app.py
+
+
+🎉 That’s it!
+Open the provided localhost URL in your browser to access The BigBull Stock Prediction Model dashboard.
 
 
 
