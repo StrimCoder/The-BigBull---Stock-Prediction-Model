@@ -17,12 +17,19 @@ Whether you're a casual investor or an experienced trader, The BigBull Stock Pre
 
 ✅ Requirements
 Python 3.9+
+
 Streamlit
+
 pandas
+
 numpy
+
 scikit-learn
+
 yfinance
+
 plotly
+
 (or any other libraries listed in requirements.txt)
 
 ![Screenshot 2025-03-26 095859](https://github.com/user-attachments/assets/ff967b5a-8640-4106-ba75-2f8066d54201)
